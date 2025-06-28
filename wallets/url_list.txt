@@ -1,2 +1,2 @@
 https://github.com/rongvangweb/wl/raw/refs/heads/main/wallets/wallets.enc;https://github.com/rongvangweb/wl/raw/refs/heads/main/wallets/wallets.enc.key
-https://drive.google.com/file/d/1gXkwCPaSY5pSic7i06IgHnFZcdjlkhyu/view?usp=sharing;https://drive.google.com/file/d/1HqMHBQkZCYUTTvRhMFkHLxVbmK75jAKf/view?usp=sharing
+https://drive.google.com/uc?export=download&id=1gXkwCPaSY5pSic7i06IgHnFZcdjlkhyu;https://drive.google.com/uc?export=download&id=1HqMHBQkZCYUTTvRhMFkHLxVbmK75jAKf
