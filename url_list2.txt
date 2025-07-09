@@ -1,1 +1,1 @@
-url_list
+https://github.com/rongvangweb/wl/raw/refs/heads/main/encrypted_wallets.bin;https://github.com/rongvangweb/wl/raw/refs/heads/main/keys.txt
